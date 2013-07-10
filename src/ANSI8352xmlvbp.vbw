@@ -1,0 +1,8 @@
+Module1 = 125, 125, 914, 575, 
+clsBrowseFolder = 0, 0, 0, 0, C
+clsConv2XML = 125, 125, 914, 575, 
+progressAPI = 0, 0, 0, 0, C
+Form1 = 75, 75, 864, 525, , 25, 25, 814, 475, C
+Form2 = 150, 150, 939, 600, , 50, 50, 839, 500, C
+mAPIConstants = 0, 0, 0, 0, C
+Module2 = 0, 0, 0, 0, C
