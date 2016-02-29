@@ -1,0 +1,11 @@
+c:\users\0018506\documents\visual studio 2013\Projects\EDI835xml\EDI835xml\bin\Debug\EDI835xml.exe.config
+c:\users\0018506\documents\visual studio 2013\Projects\EDI835xml\EDI835xml\bin\Debug\EDI835xml.exe
+c:\users\0018506\documents\visual studio 2013\Projects\EDI835xml\EDI835xml\bin\Debug\EDI835xml.pdb
+c:\users\0018506\documents\visual studio 2013\Projects\EDI835xml\EDI835xml\bin\Debug\EDI835xml.xml
+c:\users\0018506\documents\visual studio 2013\Projects\EDI835xml\EDI835xml\obj\Debug\EDI835xml.Form1.resources
+c:\users\0018506\documents\visual studio 2013\Projects\EDI835xml\EDI835xml\obj\Debug\EDI835xml.Resources.resources
+c:\users\0018506\documents\visual studio 2013\Projects\EDI835xml\EDI835xml\obj\Debug\EDI835xml.vbproj.GenerateResource.Cache
+c:\users\0018506\documents\visual studio 2013\Projects\EDI835xml\EDI835xml\obj\Debug\EDI835xml.exe
+c:\users\0018506\documents\visual studio 2013\Projects\EDI835xml\EDI835xml\obj\Debug\EDI835xml.xml
+c:\users\0018506\documents\visual studio 2013\Projects\EDI835xml\EDI835xml\obj\Debug\EDI835xml.pdb
+C:\Users\0018506\Documents\Visual Studio 2013\Projects\EDI835xml\EDI835xml\obj\Debug\EDI835xml.Form2.resources
